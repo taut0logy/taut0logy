@@ -140,13 +140,13 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 CSE-4128</h3>
+      <h3 align="center">📊 Biggan Mela</h3>
       <div align="center">
-        <a href="https://github.com/taut0logy/CSE-4128" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=CSE-4128&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CSE-4128"/>
+        <a href="https://github.com/abirzishan32/biggan-mela" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abirzishan32&repo=biggan-mela&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Biggan Mela"/>
         </a>
-        <p><strong>Python, Jupyter Notebook</strong></p>
-        <p>Machine learning and data science coursework with practical implementations.</p>
+        <p><strong>Python, TypeScript</strong></p>
+        <p>A comprehensive educational platform that brings science learning to life through interactive simulations, AI-powered tools, and engaging content.</p>
       </div>
     </td>
   </tr>
@@ -158,7 +158,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=taut0logy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taut0logy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taut0logy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/> -->
 </div>
 
 <div align="center">
