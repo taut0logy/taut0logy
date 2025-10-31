@@ -1,6 +1,5 @@
-<!-- ======================= HEADER ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raufun+Ahsan;Software+Developer;Machine+Learning+Engineer;Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Raufun+Ahsan;Software+Developer;Machine+Learning+Engineer;Systems+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,7 +22,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎓 **Undergraduate in CSE** at Khulna University of Engineering & Technology
 - 💻 Passionate about building **scalable software systems** and exploring **machine learning engineering**
@@ -33,7 +32,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages
 <p>
@@ -81,7 +80,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -154,7 +153,7 @@
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=taut0logy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
@@ -168,7 +167,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=taut0logy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
@@ -176,7 +175,7 @@
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
   
