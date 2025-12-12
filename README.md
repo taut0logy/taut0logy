@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Raufun+Ahsan;Software+Developer;Machine+Learning+Engineer;Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Raufun+Ahsan;Software+Developer;Aspiring+AI/ML+Engineer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -27,7 +27,7 @@
 - **Undergraduate in CSE** at Khulna University of Engineering & Technology
 - Passionate about building **scalable software systems** and exploring **machine learning engineering**
 - Love architecting **full-stack** & **real-time applications** with modern technologies
-- Journey from **algorithmic problem-solving** to **production-ready platforms**
+- Currently doing research on **Federated Learning**, **Deep Learning**
 - Always curious, always learning, always building
 
 ---
@@ -93,8 +93,7 @@
         <a href="https://github.com/taut0logy/serenite" target="_blank">
           <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=serenite&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Support Group System"/>
         </a>
-        <p><strong>TypeScript, Python, Next.js</strong></p>
-        <p>A safe, intuitive platform for mental health support. Provides private and accessible professional help for individuals struggling with mental health challenges.</p>
+        <p><strong>TypeScript, Python, Next.js, LangChain, RAG</strong></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -103,8 +102,7 @@
         <a href="https://github.com/Faysal-star/synapseEd" target="_blank">
           <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=Faysal-star&repo=synapseEd&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="SynapseEd"/>
         </a>
-        <p><strong>TypeScript, Python, AI-Powered</strong></p>
-        <p>AI-Powered Learning & Edu-Management Platform that revolutionizes educational experiences with intelligent features.</p>
+        <p><strong>TypeScript, Python, Agetic AI</strong></p>
       </div>
     </td>
   </tr>
@@ -115,8 +113,7 @@
         <a href="https://github.com/taut0logy/Serendipity" target="_blank">
           <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=Serendipity&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Serendipity"/>
         </a>
-        <p><strong>JavaScript, PHP, Laravel, Next.js</strong></p>
-        <p>A referral-based donation tracking system connecting donors and recipients through trusted networks.</p>
+        <p><strong>JavaScript, PHP, Laravel, Next.js, Stripe</strong></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -125,8 +122,7 @@
         <a href="https://github.com/taut0logy/KUET-Campus" target="_blank">
           <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=KUET-Campus&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="KUET Campus"/>
         </a>
-        <p><strong>JavaScript, Full-Stack</strong></p>
-        <p>Comprehensive university campus portal with modern UI/UX for students and faculty.</p>
+        <p><strong>JavaScript, Express.js, Next.js, Socket.io</strong></p>
       </div>
     </td>
   </tr>
@@ -138,7 +134,6 @@
           <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=Eksathe&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eksathe"/>
         </a>
         <p><strong>JavaScript, PHP, Laravel</strong></p>
-        <p>Social engagement platform for teams and communities to connect and collaborate.</p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -147,8 +142,27 @@
         <a href="https://github.com/abirzishan32/biggan-mela" target="_blank">
           <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=abirzishan32&repo=biggan-mela&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Biggan Mela"/>
         </a>
-        <p><strong>Python, TypeScript</strong></p>
-        <p>A comprehensive educational platform that brings science learning to life through interactive simulations, AI-powered tools, and engaging content.</p>
+        <p><strong>Python, TypeScript, Socket.io</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Kothakoli</h3>
+      <div align="center">
+        <a href="https://github.com/taut0logy/Kothakoli" target="_blank">
+          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=Kothakoli&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kothakoli"/>
+        </a>
+        <p><strong>Python, JavaScript</strong></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ReaderForU</h3>
+      <div align="center">
+        <a href="https://github.com/taut0logy/ReaderForU" target="_blank">
+          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=ReaderForU&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ReaderForU"/>
+        </a>
+        <p><strong>Java, Android</strong></p>
       </div>
     </td>
   </tr>
