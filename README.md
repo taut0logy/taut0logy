@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://raufun-ahsan.online" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/taut0logy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -24,11 +24,11 @@
 
 ## About Me
 
-- 🎓 **Undergraduate in CSE** at Khulna University of Engineering & Technology
-- 💻 Passionate about building **scalable software systems** and exploring **machine learning engineering**
-- 🏗️ Love architecting **full-stack** & **real-time applications** with modern technologies
-- 🚀 Journey from **algorithmic problem-solving** to **production-ready platforms**
-- 🌱 Always curious, always learning, always building
+- **Undergraduate in CSE** at Khulna University of Engineering & Technology
+- Passionate about building **scalable software systems** and exploring **machine learning engineering**
+- Love architecting **full-stack** & **real-time applications** with modern technologies
+- Journey from **algorithmic problem-solving** to **production-ready platforms**
+- Always curious, always learning, always building
 
 ---
 
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Symfony-D9D6D4?style=for-the-badge&logo=symfony&logoColor=black" alt="Symfony"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -64,10 +65,13 @@
 ### 🗄️ Database & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-FE4C29?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Redis-DC3814?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -75,7 +79,6 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/Vector_Embeddings-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Embeddings"/>
-  <img src="https://img.shields.io/badge/Llama_Models-00ADD8?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
 </p>
 
 ---
@@ -85,10 +88,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Serenite - A Private Intuitive Online Support Group System</h3>
+      <h3 align="center">Serenite</h3>
       <div align="center">
         <a href="https://github.com/taut0logy/serenite" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=serenite&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Support Group System"/>
+          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=serenite&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Support Group System"/>
         </a>
         <p><strong>TypeScript, Python, Next.js</strong></p>
         <p>A safe, intuitive platform for mental health support. Provides private and accessible professional help for individuals struggling with mental health challenges.</p>
@@ -98,7 +101,7 @@
       <h3 align="center">SynapseEd</h3>
       <div align="center">
         <a href="https://github.com/Faysal-star/synapseEd" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faysal-star&repo=synapseEd&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="SynapseEd"/>
+          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=Faysal-star&repo=synapseEd&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="SynapseEd"/>
         </a>
         <p><strong>TypeScript, Python, AI-Powered</strong></p>
         <p>AI-Powered Learning & Edu-Management Platform that revolutionizes educational experiences with intelligent features.</p>
@@ -110,7 +113,7 @@
       <h3 align="center">Serendipity</h3>
       <div align="center">
         <a href="https://github.com/taut0logy/Serendipity" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=Serendipity&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Serendipity"/>
+          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=Serendipity&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Serendipity"/>
         </a>
         <p><strong>JavaScript, PHP, Laravel, Next.js</strong></p>
         <p>A referral-based donation tracking system connecting donors and recipients through trusted networks.</p>
@@ -120,7 +123,7 @@
       <h3 align="center">KUET Campus</h3>
       <div align="center">
         <a href="https://github.com/taut0logy/KUET-Campus" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=KUET-Campus&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="KUET Campus"/>
+          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=KUET-Campus&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="KUET Campus"/>
         </a>
         <p><strong>JavaScript, Full-Stack</strong></p>
         <p>Comprehensive university campus portal with modern UI/UX for students and faculty.</p>
@@ -132,7 +135,7 @@
       <h3 align="center">Eksathe</h3>
       <div align="center">
         <a href="https://github.com/taut0logy/Eksathe" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=Eksathe&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eksathe"/>
+          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=Eksathe&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eksathe"/>
         </a>
         <p><strong>JavaScript, PHP, Laravel</strong></p>
         <p>Social engagement platform for teams and communities to connect and collaborate.</p>
@@ -142,7 +145,7 @@
       <h3 align="center">Biggan Mela</h3>
       <div align="center">
         <a href="https://github.com/abirzishan32/biggan-mela" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abirzishan32&repo=biggan-mela&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Biggan Mela"/>
+          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=abirzishan32&repo=biggan-mela&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Biggan Mela"/>
         </a>
         <p><strong>Python, TypeScript</strong></p>
         <p>A comprehensive educational platform that brings science learning to life through interactive simulations, AI-powered tools, and engaging content.</p>
@@ -156,13 +159,13 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=taut0logy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taut0logy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-puce-three-40.vercel.app/api?username=taut0logy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats-sage-sigma.vercel.app/?user=taut0logy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taut0logy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=taut0logy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-readme-stats-puce-three-40.vercel.app/api/top-langs/?username=taut0logy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph-coral.vercel.app/graph?username=taut0logy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -170,7 +173,7 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taut0logy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-six-rust.vercel.app/?username=taut0logy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -181,7 +184,7 @@
   
 I'm always open to collaborating on interesting projects, open-source initiatives, or learning new technologies together!
 
-**📧 Email:** contact@raufun-ahsan.online  
+**📧 Email:** raufun.ahsan@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/raufun-ahsan](https://www.linkedin.com/in/raufun-ahsan)  
 **🌐 Portfolio:** [raufun-ahsan.online](https://raufun-ahsan.online)
 
