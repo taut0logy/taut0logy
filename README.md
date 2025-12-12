@@ -85,17 +85,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ Serenite - A Private Intuitive Online Support Group System</h3>
+      <h3 align="center">Serenite - A Private Intuitive Online Support Group System</h3>
       <div align="center">
-        <a href="https://github.com/SakiburRahman07/Private-Intuitive-Online-Support-Group-System" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SakiburRahman07&repo=Private-Intuitive-Online-Support-Group-System&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Support Group System"/>
+        <a href="https://github.com/taut0logy/serenite" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=serenite&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Support Group System"/>
         </a>
         <p><strong>TypeScript, Python, Next.js</strong></p>
-        <p>A safe, intuitive platform for mental health support 💙. Provides private and accessible professional help for individuals struggling with mental health challenges.</p>
+        <p>A safe, intuitive platform for mental health support. Provides private and accessible professional help for individuals struggling with mental health challenges.</p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 SynapseEd</h3>
+      <h3 align="center">SynapseEd</h3>
       <div align="center">
         <a href="https://github.com/Faysal-star/synapseEd" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faysal-star&repo=synapseEd&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="SynapseEd"/>
@@ -107,7 +107,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤝 Serendipity</h3>
+      <h3 align="center">Serendipity</h3>
       <div align="center">
         <a href="https://github.com/taut0logy/Serendipity" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=Serendipity&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Serendipity"/>
@@ -117,7 +117,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏫 KUET Campus</h3>
+      <h3 align="center">KUET Campus</h3>
       <div align="center">
         <a href="https://github.com/taut0logy/KUET-Campus" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=KUET-Campus&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="KUET Campus"/>
@@ -129,7 +129,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👥 Eksathe</h3>
+      <h3 align="center">Eksathe</h3>
       <div align="center">
         <a href="https://github.com/taut0logy/Eksathe" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=taut0logy&repo=Eksathe&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eksathe"/>
@@ -139,7 +139,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Biggan Mela</h3>
+      <h3 align="center">Biggan Mela</h3>
       <div align="center">
         <a href="https://github.com/abirzishan32/biggan-mela" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=abirzishan32&repo=biggan-mela&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Biggan Mela"/>
@@ -157,7 +157,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=taut0logy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taut0logy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/> -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taut0logy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
