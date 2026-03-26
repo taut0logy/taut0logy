@@ -170,28 +170,6 @@
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-puce-three-40.vercel.app/api?username=taut0logy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats-sage-sigma.vercel.app/?user=taut0logy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-puce-three-40.vercel.app/api/top-langs/?username=taut0logy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph-coral.vercel.app/graph?username=taut0logy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-six-rust.vercel.app/?username=taut0logy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
