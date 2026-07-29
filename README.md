@@ -22,16 +22,6 @@
 
 ---
 
-## About Me
-
-- **Undergraduate in CSE** at Khulna University of Engineering & Technology
-- Passionate about building **scalable software systems** and exploring **machine learning engineering**
-- Love architecting **full-stack** & **real-time applications** with modern technologies
-- Currently doing research on **Federated Learning**, **Deep Learning**
-- Always curious, always learning, always building
-
----
-
 ## Tech Stack
 
 ### 💻 Programming Languages
@@ -80,93 +70,6 @@
   <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/Vector_Embeddings-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Embeddings"/>
 </p>
-
----
-
-## Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Serenite</h3>
-      <div align="center">
-        <a href="https://github.com/taut0logy/serenite" target="_blank">
-          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=serenite&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Support Group System"/>
-        </a>
-        <p><strong>TypeScript, Python, Next.js, LangChain, RAG</strong></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">SynapseEd</h3>
-      <div align="center">
-        <a href="https://github.com/Faysal-star/synapseEd" target="_blank">
-          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=Faysal-star&repo=synapseEd&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="SynapseEd"/>
-        </a>
-        <p><strong>TypeScript, Python, Agetic AI</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Serendipity</h3>
-      <div align="center">
-        <a href="https://github.com/taut0logy/Serendipity" target="_blank">
-          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=Serendipity&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Serendipity"/>
-        </a>
-        <p><strong>JavaScript, PHP, Laravel, Next.js, Stripe</strong></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">KUET Campus</h3>
-      <div align="center">
-        <a href="https://github.com/taut0logy/KUET-Campus" target="_blank">
-          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=KUET-Campus&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="KUET Campus"/>
-        </a>
-        <p><strong>JavaScript, Express.js, Next.js, Socket.io</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Eksathe</h3>
-      <div align="center">
-        <a href="https://github.com/taut0logy/Eksathe" target="_blank">
-          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=Eksathe&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eksathe"/>
-        </a>
-        <p><strong>JavaScript, PHP, Laravel</strong></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Biggan Mela</h3>
-      <div align="center">
-        <a href="https://github.com/abirzishan32/biggan-mela" target="_blank">
-          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=abirzishan32&repo=biggan-mela&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Biggan Mela"/>
-        </a>
-        <p><strong>Python, TypeScript, Socket.io</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Kothakoli</h3>
-      <div align="center">
-        <a href="https://github.com/taut0logy/Kothakoli" target="_blank">
-          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=Kothakoli&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kothakoli"/>
-        </a>
-        <p><strong>Python, JavaScript</strong></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ReaderForU</h3>
-      <div align="center">
-        <a href="https://github.com/taut0logy/ReaderForU" target="_blank">
-          <img src="https://github-readme-stats-puce-three-40.vercel.app/api/pin/?username=taut0logy&repo=ReaderForU&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ReaderForU"/>
-        </a>
-        <p><strong>Java, Android</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
